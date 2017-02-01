@@ -1,0 +1,13 @@
+{
+  "name": "koa-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony-async-await app.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "koa": "2.0.0"
+  }
+}
